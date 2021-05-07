@@ -1,4 +1,4 @@
-# Resume-Builder-portal
+# Resume-Builder-system
 An online resume builder system is a software developed to simplify the task of creating a resume for individuals. The application provides an effective means of designing desired resume in fact a professional looking resume. The system is flexible to be used and reduces the need of thinking and designing an appropriate resume according to qualifications
 
 This project is user-friendly and requires minimum human intervention. Individuals just have to fill up a form that specifies questions from all required fields such as personal questions, educational qualities, interest, skills and so on. The answers provided by the users are stored and the system automatically generates a well structured resume. 
